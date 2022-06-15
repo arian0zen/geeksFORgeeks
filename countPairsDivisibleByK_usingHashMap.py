@@ -9,7 +9,7 @@ def countKdivPairs(arr, n, k):
         else:
             ans += hash_map[0]
         hash_map[remainder] = ++1
-    return ans
+        print(ans)
              
              
              
