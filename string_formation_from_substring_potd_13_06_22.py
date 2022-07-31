@@ -27,3 +27,4 @@ def isRepeat(s):
 
 s= "ababac"
 print(isRepeat(s))
+
