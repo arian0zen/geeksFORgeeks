@@ -12,7 +12,7 @@ def max_multiple(array):
         end -= 1
         
     print (A)
-    print(B)
+    print(B)    
     print(max(B))
     
     
