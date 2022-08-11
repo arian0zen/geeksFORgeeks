@@ -3,6 +3,8 @@ Given a string consisting of spaces,\t,\n and lower case  alphabets.Your task is
 the number of words where spaces,\t and \n work as separators.
  
 
+
+
 Example 1:
 
 Input: S = "abc def"
