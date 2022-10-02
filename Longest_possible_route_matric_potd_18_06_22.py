@@ -5,6 +5,7 @@ def longestPath(matrix ,n , m , xs , ys , xd , yd ) :
        ans = -1
        def dfs(x, y, visited, dist):
            nonlocal ans
+
            
            if matrix[x][y] == 0 or (x, y) in visited:
                return
